@@ -3,7 +3,6 @@
 
 <h2> This is my Maven Demo Application... </h2>
 <h2> Artifact created by using tomcat server</h2>
-<h2> sivareddy.</h2>
 
 
 
